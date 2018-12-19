@@ -1,7 +1,12 @@
 # About the wireframing kit
 
-Quick Sketch wireframing kit for digital publishing websites.
+Tools to help with wireframing for the digital publishing websites.
 
+## Includes
+- Sketch wireframing kit
+- Blank sheet for sketching screens and user flows
+
+## Sketch wireframing kit
 The Sketch wireframing kit provides a simple way to make mock-ups that look like pages on ONS.GOV.UK. These wireframes can be used to show ideas to people you work with, and to do user research.
 
 ## Requirements
